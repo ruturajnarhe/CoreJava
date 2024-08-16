@@ -41,10 +41,8 @@ public class Demo {
         System.out.println("__________________________________");
         // replace character
         String str9 = "GauravDhumane";
-        System.out.println(str9.replace('t', 'i'));
+        System.out.println(str9.replace('e', 'i'));
         System.out.println(str9.replace(str9, str8));
-        System.out.println(str9.repeat(4));
-
     }
 
 }
